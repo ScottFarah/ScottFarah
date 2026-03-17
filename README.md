@@ -1,4 +1,4 @@
-## Hi there 👋
+## Scott Farah 👋
 
 I am a student at Northeastern University class of 2029 pursuing a degree in Computer Science.
 
